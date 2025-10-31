@@ -97,16 +97,16 @@
 
 <p align="left">
   <a href="mailto:olaf.koziara@gmail.com" title="Send me an email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="40" height="40" alt="Email" title="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/olaf-koziara-0b7b47164/" target="_blank" title="Connect on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <a href="https://github.com/Olaf-Koziara" target="_blank" title="Check my GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
   </a>
   <a href="https://olaf-koziara-portfoli-ang.vercel.app/" target="_blank" title="View my portfolio">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" width="40" height="40" alt="Portfolio" title="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" title="Portfolio"/>
   </a>
 </p>
 
