@@ -1,4 +1,4 @@
-# Hi, I'm Olaf Koziara
+[# Hi, I'm Olaf Koziara
 
 <div align="center">
   <img src="./icons/wave.svg" width="30" height="30" alt="wave"/> 
@@ -112,3 +112,4 @@
 <div align="center">
   <img src="./icons/heart.svg" width="16" height="16" alt="heart"/> Made with passion for clean code and great UX
 </div>
+](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
