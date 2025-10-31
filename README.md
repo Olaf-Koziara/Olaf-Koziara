@@ -1,115 +1,127 @@
-[# Hi, I'm Olaf Koziara
+# Hi, I'm Olaf Koziara
 
 <div align="center">
-  <img src="./icons/wave.svg" width="30" height="30" alt="wave"/> 
-  Frontend-focused Full Stack Developer with 3+ years of commercial experience building scalable web applications.
+  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" alt="wave"/> 
+  
+  **Frontend-focused Full Stack Developer with 3+ years of commercial experience building scalable web applications**
 </div>
 
 ---
 
-## <img src="./icons/rocket.svg" width="24" height="24" alt="rocket"/> Currently
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Rocket.png" width="24" height="24" alt="rocket"/> Currently
 
-<img src="./icons/search.svg" width="18" height="18" alt="search"/> **Open to work** - Looking for Frontend/Full Stack Developer position  
-<img src="./icons/book.svg" width="18" height="18" alt="book"/> Studying Computer Science at PJATK Gdańsk  
-<img src="./icons/growth.svg" width="18" height="18" alt="growth"/> Learning cybersecurity fundamentals
+- 🔍 **Open to work** - Looking for Frontend/Full Stack Developer position
+- 📚 Studying Computer Science at PJATK Gdańsk
+- 🌱 Learning cybersecurity fundamentals
 
 ---
 
-## <img src="./icons/code.svg" width="24" height="24" alt="code"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Laptop.png" width="24" height="24" alt="code"/> Tech Stack
 
 ### Frontend Frameworks
+
 <p align="left">
-  <img src="./icons/angular.svg" width="40" height="40" alt="Angular"/> 
-  <img src="./icons/react.svg" width="40" height="40" alt="React"/> 
-  <img src="./icons/nextjs.svg" width="40" height="40" alt="Next.js"/> 
-  <img src="./icons/typescript.svg" width="40" height="40" alt="TypeScript"/> 
-  <img src="./icons/javascript.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 </p>
 
-**Angular** (17+, TypeScript, RxJS, NgRx, Angular Material) - 3 years commercial  
-**React** (18+, Next.js 14, TypeScript, Context API, Redux)
+- **Angular** (17+, TypeScript, RxJS, NgRx, Angular Material) - **3 years commercial experience**
+- **React** (18+, Next.js 14, TypeScript, Context API, Redux)
 
 ### Core Technologies
+
 <p align="left">
-  <img src="./icons/html.svg" width="40" height="40" alt="HTML5"/> 
-  <img src="./icons/css.svg" width="40" height="40" alt="CSS3"/> 
-  <img src="./icons/sass.svg" width="40" height="40" alt="SCSS"/> 
-  <img src="./icons/tailwind.svg" width="40" height="40" alt="Tailwind"/>
-  <img src="./icons/rxjs.svg" width="40" height="40" alt="RxJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt="SCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/ReactiveX/rxjs/master/resources/CI-CD/logo/svg/RxJs_Logo_Basic.svg" width="50" height="50" alt="RxJS"/>
 </p>
 
 ### Backend & Tools
+
 <p align="left">
-  <img src="./icons/nodejs.svg" width="40" height="40" alt="Node.js"/> 
-  <img src="./icons/express.svg" width="40" height="40" alt="Express"/> 
-  <img src="./icons/git.svg" width="40" height="40" alt="Git"/> 
-  <img src="./icons/figma.svg" width="40" height="40" alt="Figma"/>
-  <img src="./icons/webpack.svg" width="40" height="40" alt="Webpack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" height="50" alt="Webpack"/>
 </p>
 
 ### Currently Learning
+
 <p align="left">
-  <img src="./icons/burpsuite.svg" width="40" height="40" alt="Burp Suite"/> 
-  <img src="./icons/security.svg" width="40" height="40" alt="Security"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/burpsuite.svg" width="50" height="50" alt="Burp Suite"/>
 </p>
 
 ---
 
-## <img src="./icons/trophy.svg" width="24" height="24" alt="trophy"/> Highlights
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Trophy.png" width="24" height="24" alt="trophy"/> Highlights
 
-<img src="./icons/check.svg" width="18" height="18" alt="check"/> Built PWA with 95+ Lighthouse score for PGE Newsletter  
-<img src="./icons/check.svg" width="18" height="18" alt="check"/> Developed accessible web components following WCAG 3.0  
-<img src="./icons/check.svg" width="18" height="18" alt="check"/> 3+ years in Scrum/Agile teams  
-<img src="./icons/check.svg" width="18" height="18" alt="check"/> Enterprise applications with Angular for financial sector
-
----
-
-## <img src="./icons/folder.svg" width="24" height="24" alt="folder"/> Featured Projects
-
-### <img src="./icons/angular.svg" width="20" height="20" alt="Angular"/> Angular Projects
-- **Financial Dashboard** - Expense tracking with data visualization (NgRx, Charts)
-- **Admin Panel** - Inventory management system (Angular Material, CRUD)
-- **Task Manager** - Kanban board with drag-and-drop (Angular CDK)
-
-### <img src="./icons/react.svg" width="20" height="20" alt="React"/> React Projects
-- **Job Application Tracker** - Next.js application for tracking job applications
-- **E-commerce Platform** - Shopping cart with payment integration
+- ✅ Built **PWA with 95+ Lighthouse score** for PGE Newsletter
+- ✅ Developed **accessible web components** following WCAG 3.0
+- ✅ **3+ years in Scrum/Agile teams**
+- ✅ **Enterprise applications with Angular** for financial sector
 
 ---
 
-## <img src="./icons/contact.svg" width="24" height="24" alt="contact"/> Contact
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/File%20Folder.png" width="24" height="24" alt="folder"/> Featured Projects
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" alt="Angular"/> Angular Projects
+
+- **Financial Dashboard** - Expense tracking with data visualization (NgRx, Charts, Angular Material)
+- **Admin Panel** - Inventory management system (Angular Material, CRUD operations, Reactive Forms)
+- **Task Manager** - Kanban board with drag-and-drop (Angular CDK, RxJS)
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React"/> React/Next.js Projects
+
+- **Job Application Tracker** - Next.js application for tracking job applications (TypeScript, REST API)
+- **E-commerce Platform** - Shopping cart with payment integration (Redux, Stripe)
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Telephone.png" width="24" height="24" alt="contact"/> Contact
 
 <p align="left">
   <a href="mailto:olaf.koziara@gmail.com">
-    <img src="./icons/email.svg" width="32" height="32" alt="Email"/>
-  </a>
-  <a href="https://olaf-koziara-portfoli-ang.vercel.app/" target="_blank">
-    <img src="./icons/portfolio.svg" width="32" height="32" alt="Portfolio"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="40" height="40" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/olaf-koziara-0b7b47164/" target="_blank">
-    <img src="./icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Olaf-Koziara" target="_blank">
-    <img src="./icons/github.svg" width="32" height="32" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://olaf-koziara-portfoli-ang.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" width="40" height="40" alt="Portfolio"/>
   </a>
 </p>
 
-<img src="./icons/location.svg" width="18" height="18" alt="location"/> Gdańsk, Poland  
-<img src="./icons/email.svg" width="18" height="18" alt="email"/> olaf.koziara@gmail.com
+📍 **Gdańsk, Poland** | 📧 **olaf.koziara@gmail.com**
 
 ---
 
-## <img src="./icons/stats.svg" width="24" height="24" alt="stats"/> GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Chart%20Increasing.png" width="24" height="24" alt="stats"/> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olaf-Koziara&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olaf-Koziara&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaf-Koziara&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaf-Koziara&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="./icons/heart.svg" width="16" height="16" alt="heart"/> Made with passion for clean code and great UX
+  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Symbols/Blue%20Heart.png" width="20" height="20" alt="heart"/>
+  <i>Made with passion for clean code and great UX</i>
 </div>
-](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
