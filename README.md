@@ -12,7 +12,7 @@
 
 - 🔍 **Open to work** - Looking for Frontend/Full Stack Developer position
 - 📚 Studying Computer Science at PJATK Gdańsk
-- 🌱 Learning cybersecurity fundamentals
+- 🌱 Learning cybersecurity 
 
 ---
 
@@ -83,13 +83,13 @@
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" alt="Angular" title="Angular"/> Angular Projects
 
 - **Financial Dashboard** - Expense tracking with data visualization (NgRx, Charts, Angular Material)
-- **Admin Panel** - Inventory management system (Angular Material, CRUD operations, Reactive Forms)
-- **Task Manager** - Kanban board with drag-and-drop (Angular CDK, RxJS)
+- **Job application board** - Kanban board with drag-and-drop for job application tracking, with ai features like generating CV and tips for application (Angular Material, CRUD operations, Reactive Forms, Gemini, Node.js/express, PostgreSQL, prism)
+
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" title="React"/> React/Next.js Projects
 
-- **Job Application Tracker** - Next.js application for tracking job applications (TypeScript, REST API)
-- **E-commerce Platform** - Shopping cart with payment integration (Redux, Stripe)
+- **Task manager** - Project task managment app, with statuses and contributors  (TypeScript, Tailwind, Zustand, Node.js/express, MongoDB)
+
 
 ---
 
