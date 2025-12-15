@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
 </p>
 
-- **Angular** (17+, TypeScript, RxJS, NgRx, Angular Material) - **3 years commercial experience**
+- **Angular** (17+, TypeScript, RxJS, NgRx, Angular Material) - 
 - **React** (18+, Next.js 14, TypeScript, Context API, Redux)
 
 ### Core Technologies
