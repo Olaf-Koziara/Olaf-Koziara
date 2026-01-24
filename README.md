@@ -21,8 +21,8 @@
 ### Frontend Frameworks
 
 <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
@@ -80,15 +80,16 @@
 
 ## 📂 Featured Projects
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" alt="Angular" title="Angular"/> Angular Projects
-
-- **Financial Dashboard** - Expense tracking with data visualization (NgRx, Charts, Angular Material)
-- **Job application board** - Kanban board with drag-and-drop for job application tracking, with ai features like generating CV and tips for application (Angular Material, CRUD operations, Reactive Forms, Gemini, Node.js/express, PostgreSQL, prism)
-
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" title="React"/> React/Next.js Projects
 
 - **Task manager** - Project task managment app, with statuses and contributors  (TypeScript, Tailwind, Zustand, Node.js/express, MongoDB)
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" alt="Angular" title="Angular"/> Angular Projects
+
+- **Financial Dashboard** - Expense tracking with data visualization (NgRx, Charts, Angular Material)
+
+
 
 
 ---
