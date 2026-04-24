@@ -1,132 +1,133 @@
-# Hi, I'm Olaf Koziara
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" alt="wave" title="Hello!"/> 
-  
-  **Frontend Developer with 3+ years of commercial experience building scalable web applications**
+  <img src="https://avatars.githubusercontent.com/u/26383990?v=4" width="120" height="120" style="border-radius: 50%;" alt="Olaf Koziara"/>
+
+  # Olaf Koziara
+
+  **Frontend Developer · 3+ lata komercyjnego doświadczenia · Cybersecurity Enthusiast**
+
+  <a href="mailto:olaf.koziara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/olaf-koziara-0b7b47164/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.olafwebdev.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  ![Profile views](https://komarev.com/ghpvc/?username=Olaf-Koziara&color=58A6FF&style=flat-square)
 </div>
 
 ---
 
-## 🚀 Currently
+## O mnie
 
-- 🔍 **Open to work** - Looking for Frontend/Full Stack Developer position
-- 📚 Studying Computer Science at PJATK Gdańsk
-- 🌱 Learning cybersecurity 
+Jestem frontend developerem z ponad 3-letnim doświadczeniem komercyjnym w budowaniu skalowalnych aplikacji webowych — głównie w **Angular** i **React**. Studiuję informatykę w kierunku **cyberbezpieczeństwa** na PJATK w Gdańsku, aktywnie rozwijając się w obszarze bezpieczeństwa aplikacji, testów penetracyjnych i analizy podatności.
 
----
-
-## 💻 Tech Stack
-
-### Frontend Frameworks
-
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
-</p>
-
-- **Angular** (17+, TypeScript, RxJS, NgRx, Angular Material) - 
-- **React** (18+, Next.js 14, TypeScript, Context API, Redux)
-
-### Core Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt="SCSS" title="SCSS/Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/ReactiveX/rxjs/master/resources/CI-CD/logo/svg/RxJs_Logo_Basic.svg" width="50" height="50" alt="RxJS" title="RxJS"/>
-</p>
-
-### Backend & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" height="50" alt="Webpack" title="Webpack"/>
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/>
-</p>
-
-### Currently Learning
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" title="Linux"/>
-  <img src="https://www.kali.org/images/kali-logo.svg" width="50" height="50" alt="Kali Linux" title="Kali Linux"/>
-</p>
+Szukam nowych możliwości jako **Frontend / Fullstack Developer**.
 
 ---
 
-## 🏆 Highlights
+## Tech Stack
 
-- ✅ Built **PWA with 95+ Lighthouse score** for PGE Newsletter
-- ✅ Developed **accessible web components** following WCAG 3.0
-- ✅ **3+ years in Scrum/Agile teams**
-- ✅ **Enterprise applications with Angular** for financial sector
+### Frontend
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular"/><br/>Angular</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br/>Next.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br/>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS"/><br/>SCSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind"/><br/>Tailwind</td>
+  </tr>
+</table>
+
+**Angular** 17+ · RxJS · NgRx · Angular Material · Native Federation  
+**React** 18+ · Next.js 14 · Redux · Context API · Zustand
+
+### Backend & DevOps
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br/>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/><br/>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/><br/>Figma</td>
+  </tr>
+</table>
+
+### Cybersecurity & Learning
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br/>Linux</td>
+    <td align="center"><img src="https://www.kali.org/images/kali-logo.svg" width="48" height="48" alt="Kali Linux"/><br/>Kali Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br/>C++</td>
+  </tr>
+</table>
+
+Penetration testing · Network analysis · Web app security (OWASP) · CTF challenges · Kali Linux tooling
 
 ---
 
-## 📂 Featured Projects
+## Cybersecurity Journey
 
+> Studiuję informatykę w kierunku cyberbezpieczeństwa — łącząc wiedzę z zakresu tworzenia aplikacji webowych z rozumieniem jak je atakować i bronić.
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" title="React"/> React/Next.js Projects
-
-- **Task manager** - Project task managment app, with statuses and contributors  (TypeScript, Tailwind, Zustand, Node.js/express, MongoDB)
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" alt="Angular" title="Angular"/> Angular Projects
-
-- **Financial Dashboard** - Expense tracking with data visualization (NgRx, Charts, Angular Material)
-
-
-
+- Analiza podatności aplikacji webowych (OWASP Top 10)
+- Testy penetracyjne środowisk sieciowych i webowych
+- Narzędzia: Burp Suite, Nmap, Metasploit, Wireshark
+- Platformy CTF: TryHackMe / HackTheBox
+- Automatyzacja z Pythonem — skrypty ofensywne i defensywne
 
 ---
 
-## 📬 Contact
+## Wybrane projekty
 
-<p align="left">
-  <a href="mailto:olaf.koziara@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/olaf-koziara-0b7b47164/" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Olaf-Koziara" target="_blank" title="Check my GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
-  </a>
-  <a href="https://olaf-koziara-portfoli-ang.vercel.app/" target="_blank" title="View my portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" title="Portfolio"/>
-  </a>
-</p>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React"/> React / Next.js
 
-📍 **Gdańsk, Poland** | 📧 **olaf.koziara@gmail.com**
+- **Task Manager** — zarządzanie zadaniami z rolami, statusami i współpracownikami  
+  `TypeScript` `Tailwind` `Zustand` `Node.js` `MongoDB`
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" alt="Angular"/> Angular
+
+- **Financial Dashboard** — śledzenie wydatków z wizualizacją danych  
+  `NgRx` `Charts` `Angular Material`
 
 ---
 
-## 📊 GitHub Stats
+## Osiągnięcia
+
+- **PWA z wynikiem 95+ Lighthouse** dla PGE Newsletter
+- **Dostępne komponenty webowe** zgodne z WCAG 3.0
+- **3+ lata w zespołach Scrum/Agile**
+- **Aplikacje enterprise w Angular** dla sektora finansowego (PGE Systemy)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olaf-Koziara&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" title="GitHub Statistics"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaf-Koziara&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" title="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olaf-Koziara&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaf-Koziara&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaf-Koziara&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
 
 ---
 
 <div align="center">
-  💙 <i>Made with passion for clean code and great UX</i>
+  <i>Buduję aplikacje, które są nie tylko funkcjonalne — ale też bezpieczne.</i>
+  <br/>
+  <strong>Gdańsk, Poland</strong>
 </div>
